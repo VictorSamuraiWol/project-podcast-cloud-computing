@@ -15,7 +15,7 @@
 
 Bem vindos! Este é um projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados. Utiliza uma esteira de prompts para gerar cada etapa do processo criativo. Minha gratidão a Deus, DIO e Santander pela oportunidade.
 
-Welcome! This project aims to generate a podcast using AI tools through more refined prompts. It employs a prompt pipeline to create each stage of the creative process. My gratitude goes to God, DIO, and Santander for the opportunity.
+Welcome! This project aims to generate a podcast using AI tools through more refined prompts. It employs a prompt pipeline to create each stage of the creative process. My gratitude goes to God, DIO and Santander for the opportunity.
 
 ## Titulo
 Maximizando Eficiência e Inovação com Inteligência Artificial na AWS
