@@ -5,10 +5,6 @@
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
     <audio src="assets/audio/elevenlabs_audio.mp3" controls title="Podcast editado"></audio>
 </div>
