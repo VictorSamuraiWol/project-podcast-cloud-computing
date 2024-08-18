@@ -66,8 +66,8 @@ Amazon Polly: Transforme texto em fala realista com este serviço de conversão 
 [FINALIZAÇÃO]
 E assim encerramos o episódio de hoje! Espero que você tenha gostado de aprender um pouco mais sobre como a AWS está utilizando inteligência artificial para transformar o mundo da computação em nuvem. Fique ligado para mais conteúdos incríveis na próxima semana. Eu sou Victor e esse foi o VictorQuest dessa semana. Até a próxima!
 
-## 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
-
+## <img src="assets/image/icone-wolverine-sem-fundo.png" width="50" /> AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student 
+<br>
 <p>
     <img 
       align=left 
@@ -89,7 +89,7 @@ E assim encerramos o episódio de hoje! Espero que você tenha gostado de aprend
     &nbsp;|&nbsp;
     </p>
 </p>
-<br/><br/>
+<br/>
 
 ---
 
